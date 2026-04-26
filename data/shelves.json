@@ -1,0 +1,10 @@
+[
+  {
+    "id": "main",
+    "shelves": 3,
+    "rowsPerShelf": 2,
+    "shelfWidth": 7.5,
+    "shelfHeight": 1.6,
+    "shelfDepth": 1.5
+  }
+]
